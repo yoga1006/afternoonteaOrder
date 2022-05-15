@@ -13,6 +13,7 @@
 		044679EC283125C600A6E6E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 044679EA283125C600A6E6E0 /* Main.storyboard */; };
 		044679EE283125C800A6E6E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 044679ED283125C800A6E6E0 /* Assets.xcassets */; };
 		044679F1283125C800A6E6E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 044679EF283125C800A6E6E0 /* LaunchScreen.storyboard */; };
+		044679F928312EC900A6E6E0 /* Hanzipen.ttc in Resources */ = {isa = PBXBuildFile; fileRef = 044679F828312EC900A6E6E0 /* Hanzipen.ttc */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		044679ED283125C800A6E6E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		044679F0283125C800A6E6E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		044679F2283125C800A6E6E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		044679F828312EC900A6E6E0 /* Hanzipen.ttc */ = {isa = PBXFileReference; lastKnownFileType = file; name = Hanzipen.ttc; path = "../../../../Documents/輸出的字體/HanziPen TC/Hanzipen.ttc"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		044679E3283125C600A6E6E0 /* afternoonteaOrder */ = {
 			isa = PBXGroup;
 			children = (
+				044679F828312EC900A6E6E0 /* Hanzipen.ttc */,
 				044679E4283125C600A6E6E0 /* AppDelegate.swift */,
 				044679E6283125C600A6E6E0 /* SceneDelegate.swift */,
 				044679E8283125C600A6E6E0 /* ViewController.swift */,
@@ -127,6 +130,7 @@
 			files = (
 				044679F1283125C800A6E6E0 /* LaunchScreen.storyboard in Resources */,
 				044679EE283125C800A6E6E0 /* Assets.xcassets in Resources */,
+				044679F928312EC900A6E6E0 /* Hanzipen.ttc in Resources */,
 				044679EC283125C600A6E6E0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
